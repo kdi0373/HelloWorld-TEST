@@ -61,4 +61,5 @@ public interface Reader {
    */
   void reset();
 //add
+// good
 }
